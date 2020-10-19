@@ -3,6 +3,6 @@
 <p>Applications developed:</p>
 <ul>
   <li>Course Info</li>
-  <li>RESPT API data-for-countries</li>
+  <li>REST API data-for-countries</li>
   <li>Phonebook</li>
 </ul>
